@@ -10,11 +10,6 @@ sections:
       # We Make Sure You Not Only Look Good but "Tech Good!"
 
 
-      Get the finest clothes and tech under one roof. 
-
-
-
-
       ###### Sepochi Co, helping you express yourself in the fashion and tech
       way, you deserve.
     actions:
