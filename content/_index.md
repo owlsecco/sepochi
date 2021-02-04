@@ -44,7 +44,9 @@ sections:
         author:
           name: Johnny Karanja
           location: 'Nakuru, Kenya'
-      - text: 'Bought a leather bracelet and a watch, did'
+      - text: >-
+          Bought a leather bracelet and a watch, didn't know they were this
+          good.
         author:
           name: Major Payne
           location: 'VA, USA'
