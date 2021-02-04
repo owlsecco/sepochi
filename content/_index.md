@@ -37,7 +37,9 @@ sections:
     section_id: testimonials_section
     title: Testimonials
     testimonials:
-      - text: 'I love this '
+      - text: >-
+          I love this store, i found all my favorite things here. Got a black
+          hoodie
         author:
           name: John Dope
           location: 'Colorado, USA'
