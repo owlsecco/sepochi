@@ -39,7 +39,7 @@ sections:
     testimonials:
       - text: >-
           I love this store, i found all my favorite things here. Got a black
-          hoodie
+          hoodie, got a pair of wireless headphones and 
         author:
           name: John Dope
           location: 'Colorado, USA'
