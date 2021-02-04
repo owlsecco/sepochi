@@ -6,7 +6,7 @@ params:
   favicon: /images/beige-celery.svg
   logo_light: /images/violet-squid.png
   logo_dark: /images/caring-tortoise.png
-  hamburger_background_image: /images/leaf-light-grey.svg
+  hamburger_background_image: /images/default-monochrome.svg
   bg_image_primary: /images/header.jpg
   bg_image_primary_opacity: 60
   bg_image_secondary: /images/leaf-light-grey.svg
