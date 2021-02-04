@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: /images/austin-distel-h1RW-NFtUyc-unsplash (Large).jpg
-    background_image_opacity: 40
+    background_image_opacity: 30
     content: >
       # We Make Sure You Not Only Look Good but "Tech Good!"
 
