@@ -44,7 +44,7 @@ sections:
         author:
           name: Johnny Karanja
           location: 'Nakuru, Kenya'
-      - text: Bought
+      - text: 'Bought '
         author:
           name: Major Payne
           location: 'VA, USA'
