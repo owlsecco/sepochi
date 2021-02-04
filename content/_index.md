@@ -46,7 +46,7 @@ sections:
           location: 'Nakuru, Kenya'
       - text: >-
           Bought a leather bracelet and a watch, didn't know they were this
-          good.
+          good. I am a satisfied customer.
         author:
           name: Major Payne
           location: 'VA, USA'
