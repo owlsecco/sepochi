@@ -44,9 +44,7 @@ sections:
         author:
           name: Johnny Karanja
           location: 'Nakuru, Kenya'
-      - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+      - text: Bought
         author:
           name: Major Payne
           location: 'VA, USA'
