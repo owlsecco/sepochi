@@ -39,7 +39,8 @@ sections:
     testimonials:
       - text: >-
           I love this store, i found all my favorite things here. Got a black
-          hoodie, got a pair of wireless headphones and Dell XPS laptop.
+          hoodie, got a pair of wireless headphones and Dell XPS laptop. Best of
+          all
         author:
           name: Johnny Karanja
           location: 'Nakuru, Kenya'
