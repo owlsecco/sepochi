@@ -53,7 +53,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Buy The New & Stylish Dell XPS 15 2021 Laptop
-    subtitle: for just $1499.99
+    subtitle: for just $1699.99
     image: /images/xps-yNvVnPcurD8-unsplash (Large).jpg
     background_image: /images/default-monochrome.svg
     cta:
