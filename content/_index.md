@@ -54,7 +54,7 @@ sections:
     section_id: promotion_section
     title: A Beautiful New Laptop
     subtitle: for just $149.99
-    image: images/promo.jpg
+    image: /images/xps-yNvVnPcurD8-unsplash (Large).jpg
     background_image: images/leaf.svg
     cta:
       type: action
