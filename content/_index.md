@@ -41,7 +41,7 @@ sections:
           I love this store, i found all my favorite things here. Got a black
           hoodie, got a pair of wireless headphones and Dell XPS laptop.
         author:
-          name: John Dope
+          name: 'Johnny '
           location: 'Colorado, USA'
       - text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
