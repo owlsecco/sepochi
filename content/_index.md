@@ -38,8 +38,8 @@ sections:
     title: Testimonials
     testimonials:
       - text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
+          I didn't know this aw guys were into herbs as well! How beautiful is
+          that Planty theme. I'm going to launch a killer JAMstack e-commerce
           store using this for sure.
         author:
           name: John Dope
