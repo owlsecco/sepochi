@@ -37,10 +37,7 @@ sections:
     section_id: testimonials_section
     title: Testimonials
     testimonials:
-      - text: >-
-          I didn't know this aw guys were into herbs as well! How beautiful is
-          that Planty them.e existed. now i can find all my favorite things in
-          one roof.
+      - text: I
         author:
           name: John Dope
           location: 'Colorado, USA'
