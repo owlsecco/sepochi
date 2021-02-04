@@ -52,7 +52,7 @@ sections:
           location: 'Nairobi, Kenya'
   - type: promotion_section
     section_id: promotion_section
-    title: Buy The New and Stylish Dell XPS 15 Laptop
+    title: Buy The New & Stylish Dell XPS 15 2021 Laptop
     subtitle: for just $149.99
     image: /images/xps-yNvVnPcurD8-unsplash (Large).jpg
     background_image: /images/default-monochrome.svg
