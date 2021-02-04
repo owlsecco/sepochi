@@ -40,7 +40,7 @@ sections:
       - text: >-
           I love this store, i found all my favorite things here. Got a black
           hoodie, got a pair of wireless headphones and Dell XPS laptop. Best of
-          all
+          all they shipped it to me in a secure package
         author:
           name: Johnny Karanja
           location: 'Nakuru, Kenya'
