@@ -37,7 +37,7 @@ sections:
     section_id: testimonials_section
     title: Testimonials
     testimonials:
-      - text: 'I '
+      - text: 'I love this '
         author:
           name: John Dope
           location: 'Colorado, USA'
