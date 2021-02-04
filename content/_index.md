@@ -10,14 +10,13 @@ sections:
       # We Make Sure You Not Only Look Good but "Tech Good!"
 
 
-      Get the finest clothes and tech under one roof. We ain't kidding around.
+      Get the finest clothes and tech under one roof. 
 
 
-      Perfumes? We got it! Hoodies? We got it! Laptops? We got it!
 
 
-      Sepochi Co, helping you express yourself in the fashion and tech way, you
-      deserve.
+      ###### Sepochi Co, helping you express yourself in the fashion and tech
+      way, you deserve.
     actions:
       - type: action
         title: See all items
