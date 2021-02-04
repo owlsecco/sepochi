@@ -14,7 +14,7 @@ sections:
       way, you deserve.
     actions:
       - type: action
-        title: Shop Nw
+        title: Shop Now
         url: /store
         style: primary
         arrow: true
