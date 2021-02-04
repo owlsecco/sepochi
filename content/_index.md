@@ -55,7 +55,7 @@ sections:
     title: A Beautiful New Laptop
     subtitle: for just $149.99
     image: /images/xps-yNvVnPcurD8-unsplash (Large).jpg
-    background_image: images/leaf.svg
+    background_image: /images/default-monochrome.svg
     cta:
       type: action
       title: Discover
