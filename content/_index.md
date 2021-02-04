@@ -49,7 +49,7 @@ sections:
           good. I am a satisfied customer.
         author:
           name: Kevin Otieno
-          location: 'VA, USA'
+          location: 'Nairobi, Kenya'
   - type: promotion_section
     section_id: promotion_section
     title: A Beautiful New Laptop
