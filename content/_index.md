@@ -44,7 +44,7 @@ sections:
         author:
           name: Johnny Karanja
           location: 'Nakuru, Kenya'
-      - text: Bought a leather bracelt and watch
+      - text: Bought a leather bracelt and a watch
         author:
           name: Major Payne
           location: 'VA, USA'
