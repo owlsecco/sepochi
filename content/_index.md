@@ -48,7 +48,7 @@ sections:
           Bought a leather bracelet and a watch, didn't know they were this
           good. I am a satisfied customer.
         author:
-          name: Major Payne
+          name: 'Kevin '
           location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
