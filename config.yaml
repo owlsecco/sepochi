@@ -5,7 +5,7 @@ params:
   snipcart_api_key: NDk0ZmZlNjktMGM5NC00NjEyLTkxNDEtYTY2MDg5ZTA0NzRlNjM3MDAzNTU0MTQxNDkyMjM1
   favicon: images/favicon.png
   logo_light: /images/violet-squid.png
-  logo_dark: images/logo.svg
+  logo_dark: /images/caring-tortoise.png
   hamburger_background_image: /images/leaf-light-grey.svg
   bg_image_primary: /images/header.jpg
   bg_image_primary_opacity: 60
