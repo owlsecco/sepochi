@@ -42,7 +42,7 @@ sections:
           hoodie, got a pair of wireless headphones and Dell XPS laptop.
         author:
           name: Johnny Karanja
-          location: 'Nakuru, kenya'
+          location: 'Nakuru, Kenya'
       - text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
